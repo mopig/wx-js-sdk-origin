@@ -1,0 +1,18 @@
+{
+  "name": "wx-js-sdk-origin",
+  "version": "1.0.0",
+  "description": "wx-js-sdk npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weixin",
+    "wx",
+    "js",
+    "sdk",
+    "npm"
+  ],
+  "author": "leo",
+  "license": "MIT"
+}
