@@ -1,6 +1,6 @@
 {
   "name": "wx-js-sdk-origin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "wx-js-sdk npm package",
   "main": "index.js",
   "scripts": {
