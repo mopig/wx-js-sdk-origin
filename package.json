@@ -2,6 +2,10 @@
   "name": "wx-js-sdk-origin",
   "version": "1.0.4",
   "description": "wx-js-sdk npm package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mopig/wx-js-sdk-origin.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
